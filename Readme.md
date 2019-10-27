@@ -9,3 +9,5 @@ This directory contains all data used to generate Figure 1 and Figure 2 of our p
 * run_experiment.sh is a script that runs experiment_entropy.py for all parameter configurations that are shown in Figures 1 and Figure 2.
 * Results.zip contains all the results from the above script. This results were computed on a cluster using several cores in parallel, as the experiments can be very expensive, mostly for large $m,n$
 * PlotResults.ipynb is a notebook that loads results from the Results directory (unzipped Result.zip) folder and creates the paper figures.
+
+![optional caption text](clt.png)
